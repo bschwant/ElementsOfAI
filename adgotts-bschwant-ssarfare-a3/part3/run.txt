@@ -1,0 +1,1 @@
+python image2text.py test_images/courier-train.png train-text.txt test_images/test-0-0.png
